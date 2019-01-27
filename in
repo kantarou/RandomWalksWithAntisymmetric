@@ -1,0 +1,15 @@
+Grid_Size_height    600
+Grid_Size_width     600
+the_origin_x        301
+the_origin_y        301
+R		    100
+NoPatOneNode        1000
+Particle            -1
+Epsilon_left        0.8
+Epsilon_rihgt       0.0
+Times               1
+Times_of_Trajectory -1
+
+
+NoPatOneNode        50000
+
